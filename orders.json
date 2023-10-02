@@ -1,0 +1,68 @@
+[
+    {
+        "username": "USER",
+        "order": []
+    },
+    {
+        "username": "beea",
+        "order": {
+            "CAKE": 50,
+            "COFFEE": 30,
+            "JUICE": 40,
+            "MUFFINS": 100,
+            "PIZZA": 200
+        }
+    },
+    {
+        "username": "nadra",
+        "order": {
+            "MUFFINS": 100,
+            "CAKE": 50,
+            "PIZZA": 200
+        }
+    },
+    {
+        "username": "jawad",
+        "order": {
+            "PIZZA": 200,
+            "COFFEE": 30
+        }
+    },
+    {
+        "username": "Lilly",
+        "order": {
+            "CAKE": 50
+        }
+    },
+    {
+        "username": "Jenette",
+        "order": {
+            "JUICE": 40
+        }
+    },
+    {
+        "username": "Ken",
+        "order": {
+            "PIZZA": 200
+        }
+    },
+    {
+        "username": "beea",
+        "order": {
+            "CAKE": 50
+        }
+    },
+    {
+        "username": "beea",
+        "order": {
+            "CAKE": 50
+        }
+    },
+    {
+        "username": "yoyo",
+        "order": {
+            "PIZZA": 200,
+            "COFFEE": 30
+        }
+    }
+]

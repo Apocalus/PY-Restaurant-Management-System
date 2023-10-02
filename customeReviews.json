@@ -1,0 +1,34 @@
+[
+    {
+        "username": "USER",
+        "feedback": "FB"
+    },
+    {
+        "username": "beea",
+        "feedback": "very delicious! - 4 stars!"
+    },
+    {
+        "username": "nadra",
+        "feedback": "amazing management - 5 stars!"
+    },
+    {
+        "username": "Lilly",
+        "feedback": "4 stars! Amazing system and easy to use <3"
+    },
+    {
+        "username": "Jenette",
+        "feedback": "Unfortunately, ill have to give a 2 star - the homepage crashed when i wanted to login :("
+    },
+    {
+        "username": "Kendall",
+        "feedback": "OMG! DEF A 5 STAR - the food was amazing, the staff were very attentive and i was served on time!"
+    },
+    {
+        "username": "Nadia",
+        "feedback": "0 stars, the staff messed up my order and the system showed me wrong prices for some items."
+    },
+    {
+        "username": "yoyo",
+        "feedback": "amazing!"
+    }
+]
