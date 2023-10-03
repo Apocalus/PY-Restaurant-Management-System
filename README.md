@@ -1,6 +1,4 @@
-This project was made with ``Python``
-
-# Console Based
+This project was made with ``Python`` [Console-Based]
 
 ### Features:
 - Sign up and Login
